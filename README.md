@@ -1,5 +1,8 @@
 # AI OS for Family Lawyers
 
+https://chatgpt.com/g/g-69b6d656e5488191adda31eb09b091ac-ai-os-for-family-lawyers
+
+
 **AI OS for Family Lawyers** is a structured AI legal operating system designed to support family law attorneys, legal teams, and family law practices.
 
 It helps organize matters, surface missing facts, structure evidence, accelerate discovery planning, support litigation strategy, and improve day-to-day case execution across family law matters including divorce, custody, parenting time, child support, spousal support, property division, enforcement, modification, relocation, paternity, and protective-order-related disputes.
